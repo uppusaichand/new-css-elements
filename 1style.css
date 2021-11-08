@@ -1,0 +1,30 @@
+body{
+    background-image:url("https://images.unsplash.com/photo-1491466424936-e304919aada7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8&w=1000&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav{
+    text-align: center;
+}
+h1{
+    margin-top: 30%;
+    margin-left: 20%;
+    font-size: 80px;
+}
+p{
+    margin-left: 20%;
+    margin-top: 15%;
+    font-size: 50px;
+}
+header{
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+}
+main{
+    margin: 20px;
+    padding: 30px;
+    border-radius: 25%;
+    color: darkkhaki;
+    text-decoration: darkolivegreen;
+}
