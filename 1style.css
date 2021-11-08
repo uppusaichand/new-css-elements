@@ -1,5 +1,5 @@
 body{
-    background-image:url("https://images.unsplash.com/photo-1491466424936-e304919aada7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8&w=1000&q=80");
+    background-image:url("https://images.pexels.com/photos/1363876/pexels-photo-1363876.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -10,11 +10,13 @@ h1{
     margin-top: 30%;
     margin-left: 20%;
     font-size: 80px;
+    color: darkorange;
 }
 p{
     margin-left: 20%;
     margin-top: 15%;
-    font-size: 50px;
+    font-size: 35px;
+    color: darkred;
 }
 header{
     height: 100%;
@@ -27,4 +29,11 @@ main{
     border-radius: 25%;
     color: darkkhaki;
     text-decoration: darkolivegreen;
+}
+div{
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    padding: 26px;
+    border-radius: 10%;
 }
